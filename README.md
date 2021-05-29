@@ -55,10 +55,3 @@ Some Azure products and services have been used such as Azure AppServices, Azure
 
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zafercaliskan" alt="zafercaliskan" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zafercaliskan&show_icons=true&locale=en&layout=compact" alt="zafercaliskan" />
-</p>
