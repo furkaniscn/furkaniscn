@@ -52,7 +52,7 @@ Some Azure products and services have been used such as Azure AppServices, Azure
 
  
  
-  <a href="https://stackoverflow.com/users/12888105/furkan-%c3%87al%c4%b1%c5%9fkan"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
+  <a href="https://stackoverflow.com/users/12888105/furkaniscn-%c3%87al%c4%b1%c5%9fkan"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
 </p>
 
 <br />
