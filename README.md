@@ -21,10 +21,3 @@
 
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkaniscn" alt="furkaniscn" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkaniscnn&show_icons=true&locale=en&layout=compact" alt="furkaniscn" />
-</p>
