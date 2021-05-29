@@ -26,8 +26,6 @@ Responsible for;
 
 Some Azure products and services have been used such as Azure AppServices, Azure Dbs, Azure WebJobs for background tasks, CosmosDB for NoSql, Azure Storage, Elasticsearch, Redis and CDN Profiles etc. -->
 
-Hi, i am a self-disciplined, passionate software engineer in Antalya/Turkey. I develop web-based applications with C# programming language. I'm trying to write easily readable, good codes with taking design principles into account and always want to create awesome products. For more about me, please let me know by sending message.
-
 <!-- Working as a software engineer to make the system more functional, which has millions of users from thousands of organisations.
 
 Responsible for;
@@ -41,21 +39,20 @@ Responsible for;
 Some Azure products and services have been used such as Azure AppServices, Azure Dbs, Azure WebJobs for background tasks, CosmosDB for NoSql, Azure Storage, Elasticsearch, Redis and CDN Profiles etc. -->
 
 #
-[![GitHub followers](https://img.shields.io/github/followers/zafercaliskan?style=social)](https://github.com/zafercaliskan?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/zafercaliskan?style=social)
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fzafercaliskan.zafercaliskan%2Freadme)
+[![GitHub followers](https://img.shields.io/github/followers/zafercaliskan?style=social)](https://github.com/furkaniscn?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/furkaniscn?style=social)
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fzafercaliskan.furkaniscn%2Freadme)
 
 ## Contact me
 <p>
   <a href="mailto:4zafercaliskan@gmail.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-  <a href="mailto:zafercaliskan@outlook.com.tr"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" /></a>
-  <a href="https://linkedin.com/in/zafercaliskan/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-  <a href="https://www.instagram.com/zafercaliskan17/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-  <a href="https://www.twitter.com/1zafercaliskan/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-  <a href="https://www.facebook.com/zafercaliskan17/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-  <a href="https://t.me/zafercaliskan"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
+  <a href="mailto:furkan.iscn@outlook.com.tr"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" /></a>
+  <a href="https://linkedin.com/in/furkaniscn/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <a href="https://www.instagram.com/frkn_iscn/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+
+ 
   <a href="https://discordapp.com/users/424246409928245249"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
-  <a href="https://stackoverflow.com/users/12888105/zafer-%c3%87al%c4%b1%c5%9fkan"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
+  <a href="https://stackoverflow.com/users/12888105/furkan-%c3%87al%c4%b1%c5%9fkan"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
 </p>
 
 <br />
