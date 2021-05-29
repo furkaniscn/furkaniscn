@@ -41,17 +41,17 @@ Some Azure products and services have been used such as Azure AppServices, Azure
 #
 [![GitHub followers](https://img.shields.io/github/followers/zafercaliskan?style=social)](https://github.com/furkaniscn?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/furkaniscn?style=social)
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fzafercaliskan.furkaniscn%2Freadme)
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Ffurkaniscn.%2Freadme)
 
 ## Contact me
 <p>
-  <a href="mailto:4zafercaliskan@gmail.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+  <a href="mailto:furkan.iscn@gmail.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
   <a href="mailto:furkan.iscn@outlook.com.tr"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" /></a>
   <a href="https://linkedin.com/in/furkaniscn/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
   <a href="https://www.instagram.com/frkn_iscn/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
  
-  <a href="https://discordapp.com/users/424246409928245249"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
+ 
   <a href="https://stackoverflow.com/users/12888105/furkan-%c3%87al%c4%b1%c5%9fkan"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
 </p>
 
