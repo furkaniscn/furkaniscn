@@ -50,9 +50,6 @@ Some Azure products and services have been used such as Azure AppServices, Azure
   <a href="https://linkedin.com/in/furkaniscn/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
   <a href="https://www.instagram.com/frkn_iscn/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
- 
- 
-  <a href="https://stackoverflow.com/users/12888105/furkaniscn-%c3%87al%c4%b1%c5%9fkan"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
 </p>
 
 <br />
