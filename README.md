@@ -1,47 +1,5 @@
 ### Hi there 👋
 
-<!--
-**furkaniscn/furkaniscn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!-- Working as a software engineer to make the system more functional, which has millions of users from thousands of organisations.
-
-Responsible for;
-- Fullstack development using .Net Framework and AngularJS,
-- Automation with Selenium
-- Software architecture design,
-- Performance optimization,
-- Some DevOps tasks configuration on Azure Pipelines,
-- Integration and maintenance in Stripe and iyzico
-
-Some Azure products and services have been used such as Azure AppServices, Azure Dbs, Azure WebJobs for background tasks, CosmosDB for NoSql, Azure Storage, Elasticsearch, Redis and CDN Profiles etc. -->
-
-<!-- Working as a software engineer to make the system more functional, which has millions of users from thousands of organisations.
-
-Responsible for;
-- Fullstack development using .Net Framework and AngularJS,
-- Automation with Selenium
-- Software architecture design,
-- Performance optimization,
-- Some DevOps tasks configuration on Azure Pipelines,
-- Integration and maintenance in Stripe and iyzico
-
-Some Azure products and services have been used such as Azure AppServices, Azure Dbs, Azure WebJobs for background tasks, CosmosDB for NoSql, Azure Storage, Elasticsearch, Redis and CDN Profiles etc. -->
-
-#
-[![GitHub followers](https://img.shields.io/github/followers/zafercaliskan?style=social)](https://github.com/furkaniscn?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/furkaniscn?style=social)
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Ffurkaniscn.%2Freadme)
 
 ## Contact me
 <p>
