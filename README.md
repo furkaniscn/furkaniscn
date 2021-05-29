@@ -26,6 +26,20 @@ Responsible for;
 
 Some Azure products and services have been used such as Azure AppServices, Azure Dbs, Azure WebJobs for background tasks, CosmosDB for NoSql, Azure Storage, Elasticsearch, Redis and CDN Profiles etc. -->
 
+Hi, i am a self-disciplined, passionate software engineer in Antalya/Turkey. I develop web-based applications with C# programming language. I'm trying to write easily readable, good codes with taking design principles into account and always want to create awesome products. For more about me, please let me know by sending message.
+
+<!-- Working as a software engineer to make the system more functional, which has millions of users from thousands of organisations.
+
+Responsible for;
+- Fullstack development using .Net Framework and AngularJS,
+- Automation with Selenium
+- Software architecture design,
+- Performance optimization,
+- Some DevOps tasks configuration on Azure Pipelines,
+- Integration and maintenance in Stripe and iyzico
+
+Some Azure products and services have been used such as Azure AppServices, Azure Dbs, Azure WebJobs for background tasks, CosmosDB for NoSql, Azure Storage, Elasticsearch, Redis and CDN Profiles etc. -->
+
 #
 [![GitHub followers](https://img.shields.io/github/followers/zafercaliskan?style=social)](https://github.com/zafercaliskan?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/zafercaliskan?style=social)
@@ -49,9 +63,16 @@ Some Azure products and services have been used such as Azure AppServices, Azure
 
 ## Languages and tools
 <p align="left">
-  
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
 
 </p>
 
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkaniscn" alt="furkaniscn" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkaniscnn&show_icons=true&locale=en&layout=compact" alt="furkaniscn" />
+</p>
