@@ -17,9 +17,10 @@
 
 ## Languages and tools
 <p align="left">
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
+<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white%22%3E"></img>
+<img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=white%22%3E"></img>
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></img>
                           !! For Now...
 </p>
 
